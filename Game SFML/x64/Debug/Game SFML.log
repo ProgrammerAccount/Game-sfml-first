@@ -1,0 +1,12 @@
+﻿  Player.cpp
+  main.cpp
+c:\users\janiak\documents\visual studio 2015\projects\game sfml\game sfml\arrow.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\janiak\documents\visual studio 2015\projects\game sfml\game sfml\arrow.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\janiak\documents\visual studio 2015\projects\game sfml\game sfml\arrow.cpp(31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  arrow.cpp
+c:\users\janiak\documents\visual studio 2015\projects\game sfml\game sfml\arrow.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\janiak\documents\visual studio 2015\projects\game sfml\game sfml\arrow.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\janiak\documents\visual studio 2015\projects\game sfml\game sfml\arrow.cpp(31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Game SFML.vcxproj -> C:\Users\Janiak\documents\visual studio 2015\Projects\Game SFML\x64\Debug\Game SFML.exe
+  Game SFML.vcxproj -> C:\Users\Janiak\documents\visual studio 2015\Projects\Game SFML\x64\Debug\Game SFML.pdb (Full PDB)
